@@ -1,4 +1,4 @@
-I'm Mutugi, a full-stack engineer in Nairobi building software for places where the internet can't be taken for granted. Software I've worked on runs in mountain villages in Guatemala, and has run in Nepal, the Dadaab refugee camps and Somalia.
+I'm Mutugi, a full-stack engineer in Nairobi building software for places where the internet can't be taken for granted. Software I've worked on runs in mountain villages in Guatemala and Nepal, and has run in the Dadaab refugee camps and Somalia.
 
 [![Website](https://img.shields.io/badge/Website-mutugiii.github.io-1a6a55?style=flat-square)](https://mutugiii.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mutugi-0A66C2?style=flat-square)](https://www.linkedin.com/in/mutugi/)
